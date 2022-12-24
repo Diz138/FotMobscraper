@@ -4,7 +4,7 @@ This script extracts expected goals (xG) data from FotMob and stores it in a Pos
 
 FotMob is a website and mobile app that provides real-time soccer scores, statistics, news, and updates for various leagues and tournaments around the world. It covers a wide range of soccer leagues and tournaments, including the major leagues in Europe, South America, and other regions, as well as international competitions such as the World Cup and the European Championship.
 
-The scaper 
+The FotMob.py file outlines how it scrapes the data and then inputs it into a PostgreSQL database. 
 
 A user can input a team name and the number of weeks of data they would like to retrieve and the program will store this data it in a PostgreSQL database. The data stored is as follows:
 
